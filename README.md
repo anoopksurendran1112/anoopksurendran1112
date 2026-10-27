@@ -1,13 +1,4 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Anoop%20K%20Surendran&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58" alt="banner" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=I+turn+messy+data+into+clean+APIs;Backend+lead+%7C+Django+%2B+Node.js;React+%2B+TypeScript+front+ends;Dijkstra+%26+A*+for+indoor+navigation;Always+shipping%2C+always+learning" alt="Typing SVG" />
-  </a>
-</div>
-
----
 
 ## 👋 Hi, I'm Anoop
 
